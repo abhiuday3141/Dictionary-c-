@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
-#include "C:\Users\Abhi\Desktop\2nd year college\data structures\data structure project\Color file.cpp"
-#include"C:\Users\Abhi\Desktop\2nd year college\data structures\data structure project\Size file.cpp"
+#include "Color file.cpp"
+#include "Size file.cpp"
 using namespace std;
 void shift_down()
 {cout<<"\n\n\n";
