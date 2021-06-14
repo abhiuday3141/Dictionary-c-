@@ -2,8 +2,8 @@
 #include<vector>
 #include<string>
 #include<conio.h>
-#include"C:\Users\Abhi\Desktop\2nd year college\data structures\data structure project\trieclass.cpp"
-#include"C:\Users\Abhi\Desktop\2nd year college\data structures\data structure project\formatting file.cpp"
+#include"trieclass.cpp"
+#include"formatting file.cpp"
 using namespace std;
 void print_word_list(vector<string> list,int idx,string compare)
 {	int val=0;
