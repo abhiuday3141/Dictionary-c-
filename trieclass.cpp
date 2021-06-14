@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 #include<string.h>
-#include"C:\Users\Abhi\Desktop\2nd year college\data structures\data structure project\Hashmap.cpp"
+#include"Hashmap.cpp"
 #include<vector>
 using namespace std;
 class trienode{
