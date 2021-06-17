@@ -13,3 +13,12 @@ Notable features in this project
 2) Easily understood by non-programmers and easy to understand
 3) Since it is a dictionary the user gets smart suggestion about what they are try to type this acts auto-complete feature
 
+HOW TO RUN
+
+Just download all the files in 1 folder and compile the main fil
+This code will work on all windows machine perfectly fine
+
+The implementation of all the required data structures can be viewed from the appropriately named cpp files provided here
+
+
+
